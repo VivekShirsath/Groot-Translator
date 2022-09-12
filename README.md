@@ -8,4 +8,6 @@ Learnt about the click eventlisteners.<br>
 <li>Javascript</li>
 </ol>
 <h1>Below is the working layout image of the same:</h1><br>
-![Working](https://user-images.githubusercontent.com/105977388/189593393-79a37015-9204-415f-b80d-7f915cea9473.png)
+
+![Working](https://user-images.githubusercontent.com/105977388/189597185-f7e23eff-59c1-4e41-8620-d61d582e728d.png)
+
