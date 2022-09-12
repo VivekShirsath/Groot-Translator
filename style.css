@@ -1,0 +1,84 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Ms+Madi&family=Open+Sans&display=swap");
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --primary: #f2c94c;
+  --black: #333333;
+}
+
+body {
+  background-color: black;
+  margin: 0;
+  font-family: "Ms Madi", cursive;
+  font-size: 2rem;
+}
+
+header {
+  text-align: center;
+  height: 100px;
+  padding: 1rem;
+  color: white;
+}
+.imgtab {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+img {
+  height: 30vh;
+  width: 25vh;
+}
+
+.container {
+  margin: auto;
+  padding: 2rem;
+  max-width: 600px;
+}
+
+textarea {
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  min-height: 25vh;
+  margin-top: 1rem;
+  font-size: 2rem;
+  font-family: inherit;
+}
+
+button {
+  background-color: var(--primary);
+  border: none;
+  margin: 1rem 0rem;
+  padding: 1rem 2rem;
+  font-family: "Ms Madi", cursive;
+  font-size: 1.5rem;
+  border-radius: 3rem;
+}
+
+#textoutput {
+  box-sizing: border-box;
+  width: 100%;
+  min-height: 15vh;
+  max-height: 20vh;
+  margin-bottom: 1rem;
+  border: 1px solid var(--black);
+  color: white;
+}
+
+footer {
+  bottom: 0;
+  width: 100%;
+  padding: 1rem;
+  text-align: center;
+  color: white;
+}
+
+footer p {
+  max-width: 1000px;
+  margin: auto;
+  color: white;
+}
